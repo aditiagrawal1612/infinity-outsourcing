@@ -1,0 +1,86 @@
+/* =============== Nav ===============*/
+
+ul.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+}
+
+ul.nav-links li {
+  padding: 0.5rem 1rem;
+}
+
+ul.nav-links li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--primaryColor);
+}
+
+@media screen and (max-width: 1024px) {
+  .nav-links {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav-links {
+    z-index: 3;
+    position: absolute;
+    top: 12vh;
+    background-color: var(--accentLightColor);
+    min-height: 50vh;
+    right: 0px;
+    flex-direction: column;
+    width: 100%;
+    transform: translateY(-150%);
+    transition: all 0.5s ease-in;
+    justify-content: flex-start;
+  }
+
+  .nav-links li {
+    opacity: 0;
+    height: 15%;
+    display: none;
+    border-bottom: 2px solid var(--accentColor);
+  }
+
+  .nav-links li:last-child {
+    border-bottom: none;
+  }
+
+  .nav-active {
+    transform: translateX(0%);
+    box-shadow: -10px 20px 20px rgba(0, 0, 0, 0.5);
+  }
+
+  .nav-active li {
+    display: block;
+  }
+
+  .trigger .line1 {
+    transform: rotate(45deg) translate(0px, 6px);
+  }
+
+  .trigger .line2 {
+    display: none;
+  }
+
+  .trigger .line3 {
+    transform: rotate(-45deg) translate(0px, -6px);
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
