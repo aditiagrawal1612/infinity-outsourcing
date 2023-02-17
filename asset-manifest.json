@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/infinity-outsourcing/static/css/main.836c3998.css",
-    "main.js": "/infinity-outsourcing/static/js/main.ac1929d3.js",
+    "main.js": "/infinity-outsourcing/static/js/main.8a23b27a.js",
     "static/media/logo.png": "/infinity-outsourcing/static/media/logo.c4d87ed3b3505c726d29.png",
     "index.html": "/infinity-outsourcing/index.html",
     "main.836c3998.css.map": "/infinity-outsourcing/static/css/main.836c3998.css.map",
-    "main.ac1929d3.js.map": "/infinity-outsourcing/static/js/main.ac1929d3.js.map"
+    "main.8a23b27a.js.map": "/infinity-outsourcing/static/js/main.8a23b27a.js.map"
   },
   "entrypoints": [
     "static/css/main.836c3998.css",
-    "static/js/main.ac1929d3.js"
+    "static/js/main.8a23b27a.js"
   ]
 }
