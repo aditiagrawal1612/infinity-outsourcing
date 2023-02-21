@@ -31,10 +31,10 @@ export default function Services() {
         <StyledContainer>
           <Card
             onClick={() => {
-              setHeading("UT IT/NON IT Recruitment");
+              setHeading("US IT/NON IT Recruitment");
               setModalShow(true);
             }}
-            heading="UT IT/NON IT Recruitment"
+            heading="US IT/NON IT Recruitment"
             // linkText="+91-7999888625"
             // link="tel:+917999888625"
             icon="fa fa-book"
@@ -67,7 +67,7 @@ export default function Services() {
         show={modalShow}
         onHide={() => setModalShow(false)}
       >
-        {heading === "UT IT/NON IT Recruitment" ? (
+        {heading === "US IT/NON IT Recruitment" ? (
           <>
             <p>
               We are having severals opening in US recruitment as we are in tie
