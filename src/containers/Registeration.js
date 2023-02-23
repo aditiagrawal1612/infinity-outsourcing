@@ -20,7 +20,7 @@ const GoogleForm = styled.div`
 export default function Registeration() {
   return (
     <StyledSection id="register">
-      <h1>Registeration</h1>
+      <h1>Registration</h1>
       <GoogleForm>
         <iframe
           src="https://docs.google.com/forms/d/e/1FAIpQLScFaKPaszltKi618KcSylVLTAjj2bfaQdq8cS1h-1AUYl0xQQ/viewform?embedded=true"
