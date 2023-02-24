@@ -110,6 +110,8 @@ export default function About() {
         "https://images.unsplash.com/photo-1674726253061-baba094ad8c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fGFldTZyTC1qNmV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=60",
       content: [
         "The company was established by Mr.Subhan Ayyub in 2015 we started as a freelancer moving to the short clients and got the company registered with jurisdictional authorities.",
+        "The Company also expanded in the form of grooming classes and IT fields we started from BPO's but now we are into many sectors after 2020 Mr.Subhan involved his younger brother Mr.Sehban Ayyub and the entity is running under both the brothers and their  team members. ",
+        "We Started in Bhopal and as of now we are having clients from all over India with 3 outlets  our head office is in Bhopal and other two are in Mumbai and Indore .",
       ],
     },
   ];
