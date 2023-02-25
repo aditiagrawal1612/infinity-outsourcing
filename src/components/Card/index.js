@@ -28,7 +28,7 @@ const StyledCard = styled.div`
   }
 
   a {
-    text-decoration: none;
+    // text-decoration: none;
     color: white;
     font-size: 1.25rem;
   }
