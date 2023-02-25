@@ -88,17 +88,17 @@ export default function Footer() {
         <div className="col">
           <ul className="list-unstyled social">
             <li>
-              <a href="#">
+              <a href="https://www.facebook.com/KINGROCKZeE?mibextid=LQQJ4d">
                 <i class="fa fa-facebook fa-2x"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://www.instagram.com/infinity_out_sourcing/?igshid=YmMyMTA2M2Y%3D">
                 <i class="fa fa-instagram fa-2x"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://chat.whatsapp.com/FsJTjWcf6WcJGcGRM3XKr5">
                 <i class="fa fa-whatsapp fa-2x"></i>
               </a>
             </li>

@@ -18,14 +18,14 @@ export default function Slider() {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>You need We feed </h3>
+            <h3>You need We feed! </h3>
             {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <CoverImage
             className="d-block w-100 carousel-img"
-            src="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            src="https://images.unsplash.com/photo-1590212151175-e58edd96185b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbXB1dGVyJTIwc2V0dXB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
             alt="Second slide"
           />
           <Carousel.Caption>
@@ -40,7 +40,7 @@ export default function Slider() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Come Grow with us</h3>
+            <h3>Come Grow with us!</h3>
             {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
           </Carousel.Caption>
         </Carousel.Item>
@@ -51,7 +51,7 @@ export default function Slider() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Not a constant but a friend</h3>
+            <h3>Not a consultant but a friend</h3>
             {/* <p>
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p> */}

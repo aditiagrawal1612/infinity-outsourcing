@@ -98,7 +98,7 @@ export default function About() {
     {
       title: "Expertise",
       image:
-        "https://images.unsplash.com/photo-1675510183229-c50371163c19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDl8YWV1NnJMLWo2ZXd8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=60",
+        "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       content: [
         "We are already dealing with numerous processes such as US IT Recruitment , US Recruitment , International BPO Processes , Domestic BPO Processes , Sales processes ,ETC. With clients such as Startek ,5S digital ,Techno Task , White feather , Qconnect , and many more .",
         "Our partnerships have always been about more than building emotional connections with customers; they are about using artificial intelligence, omnichannel orchestration and providing CX insights & technologies, that has the power for digital transformation We do this across 8 locations , and try our best to be in touch with the candidates and clients for every short change from our side if that is important for client .",
@@ -107,7 +107,7 @@ export default function About() {
     {
       title: "Founder",
       image:
-        "https://images.unsplash.com/photo-1674726253061-baba094ad8c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fGFldTZyTC1qNmV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=60",
+        "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       content: [
         "The company was established by Mr.Subhan Ayyub in 2015 we started as a freelancer moving to the short clients and got the company registered with jurisdictional authorities.",
         "The Company also expanded in the form of grooming classes and IT fields we started from BPO's but now we are into many sectors after 2020 Mr.Subhan involved his younger brother Mr.Sehban Ayyub and the entity is running under both the brothers and their  team members. ",

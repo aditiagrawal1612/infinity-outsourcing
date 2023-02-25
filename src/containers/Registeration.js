@@ -23,7 +23,7 @@ export default function Registeration() {
       <h1>Registration</h1>
       <GoogleForm>
         <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLScFaKPaszltKi618KcSylVLTAjj2bfaQdq8cS1h-1AUYl0xQQ/viewform?embedded=true"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSeyTRu5RvMzH0WZLWCNUF-9FaQseCC2b67xtUE4d_p2QkYfEg/viewform?embedded=true"
           width="100%"
           style={{
             top: "0",

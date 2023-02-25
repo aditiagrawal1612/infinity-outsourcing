@@ -27,21 +27,20 @@ export default function Contact() {
       <StyledContainer>
         <Card
           heading="Phone number"
-          linkText="+917999888625"
-          link="tel:+917999888625"
+          linkText="+919343151193"
+          link="tel:+919343151193"
           icon="fa fa-phone-alt"
         />
         <Card
           heading="Email"
-          linkText="infinityoutsourcing@gmail.com"
-          link="mailto:infinityoutsourcing@gmail.com"
+          linkText="subhanayyub@infinityoutsourcing.in"
+          link="mailto:subhanayyub@infinityoutsourcing.in"
           icon="fas fa-paper-plane"
         />
         <Card
           heading="Address"
-          linkText="Lorem ipsum dolor sit amet. Aut labore animi ad illum modi non
-                galisum sequi ut soluta nisi."
-          link="https://www.google.com/maps/place/VIP+Road,+Bhopal,+Madhya+Pradesh/@23.2609122,77.3785381,17z/data=!3m1!4b1!4m5!3m4!1s0x397c67e3f3bdf80d:0x156e1875b3f5caf0!8m2!3d23.2609073!4d77.3807268"
+          linkText="Infinity Outsourcing H no.73 Bismillah Manzil Near Bhandari auto parts Budhwaara Bhopal (M.P)"
+          link="https://maps.app.goo.gl/RxbyDUexwajLMGuK8"
           icon="fas fa-map-signs"
         />
       </StyledContainer>
