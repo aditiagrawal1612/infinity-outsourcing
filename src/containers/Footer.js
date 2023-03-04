@@ -65,7 +65,9 @@ export default function Footer() {
           <h4>Head Office</h4>
           <ul className="list-unstyled">
             <li>Sehban Ayyub</li>
-            <li>+919343151193</li>
+            <li>
+              <a href="tel:+919343151193">+919343151193</a>
+            </li>
             <li>Bhopal,M.P</li>
           </ul>
         </div>
@@ -73,7 +75,9 @@ export default function Footer() {
           <h4>Branch 1</h4>
           <ul className="list-unstyled">
             <li>Subhan Ayyub</li>
-            <li>+916264334548</li>
+            <li>
+              <a href="tel:+916264334548">+916264334548</a>
+            </li>
             <li>Indore, M.P</li>
           </ul>
         </div>
@@ -81,7 +85,9 @@ export default function Footer() {
           <h4>Branch 2</h4>
           <ul className="list-unstyled">
             <li>Arham Khan</li>
-            <li>+919826294665</li>
+            <li>
+              <a href="tel:+919826294665">+919826294665</a>
+            </li>
             <li>Delhi, NCR</li>
           </ul>
         </div>
